@@ -1,3 +1,8 @@
+## DISCLAIMER
+
+Site is still in very early stages, there is almost no content. 
+Content and functionality updates will be pushed daily.
+
 ## IDEA
 
 I love my mom, but my mom doesn't love learning english, everytime we're abroad
