@@ -11,7 +11,7 @@ export default function Footer() {
                 <a href="https://github.com/Hravid" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:underline">
                     <FaGithub /> GitHub
                 </a>
-                <a href="mailto:hravidd@proton.me" className="hover:underline">
+                <a href="mailto:contact@hravid.tech" className="hover:underline">
                     hravidd@proton.me
                 </a>
             </div>
