@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+@layer base {
+  html, body, * {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
 html, body {
   height: 100%;
   margin: 0;
@@ -10,8 +16,6 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: var(--background);
-  color: var(--foreground);
   font-family: Jetbrains-mono;
 }
 

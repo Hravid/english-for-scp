@@ -5,10 +5,10 @@ export default function PresentSimple(){
             <div>Kiedy uzywamy</div>
             <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
                 <div>
-                    1
+                    Rutyny i nawyki:
                 </div>
                 <div>
-                    1
+                    Fakty i prawdy ogólne:
                 </div>
                 <div>
                     1
