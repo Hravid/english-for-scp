@@ -13,10 +13,10 @@ This site is a byproduct of me trying to teach my mom a bit of foreign language,
 
 - [ ] Add tests logic
 - [ ] Add login option and database (firebase/pocketbase)
-- [ ] Add missing lessons content 
-- [ ] Add flashccards
+- [x] Add missing lessons content 
+- [x] Add flashcards
 - [ ] Add teacher user logic and assignments
 - [x] Check if footer goes crazy as always (it doesn't)
 - [ ] (*far future*) Translate site from polish to other languages
-- [ ] Fix sidebar UI/UX 
+- [x] Fix sidebar UI/UX (i guess?) 
 
