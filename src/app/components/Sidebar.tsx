@@ -42,7 +42,7 @@ export default function Sidebar({ isOpen, setIsOpen }: SidebarProps) {
             target="_blank"
             rel="noopener noreferrer"
             className="block py-2 w-full font-semibold text-center bg-blue-700 rounded hover:underline">
-            Support me
+            Support site
           </a>
         </div>
       </div>
