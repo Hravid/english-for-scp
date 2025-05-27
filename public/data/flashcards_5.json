@@ -1,0 +1,252 @@
+[
+    {
+        "id": 201,
+        "word": "Impart",
+        "translation": "Dodawać"
+    },
+    {
+        "id": 202,
+        "word": "Propriety",
+        "translation": "Przyzwoitość"
+    },
+    {
+        "id": 203,
+        "word": "Consecrate",
+        "translation": "Poświęcać"
+    },
+    {
+        "id": 204,
+        "word": "Proceeds",
+        "translation": "Dochód"
+    },
+    {
+        "id": 205,
+        "word": "Fathom",
+        "translation": "Pojąć"
+    },
+    {
+        "id": 206,
+        "word": "Objective",
+        "translation": "Cel"
+    },
+    {
+        "id": 207,
+        "word": "Clad",
+        "translation": "Odziany"
+    },
+    {
+        "id": 208,
+        "word": "Partisan",
+        "translation": "Partyzant"
+    },
+    {
+        "id": 209,
+        "word": "Faction",
+        "translation": "Odłam"
+    },
+    {
+        "id": 210,
+        "word": "Contrived",
+        "translation": "Wymyślony"
+    },
+    {
+        "id": 211,
+        "word": "Venerable",
+        "translation": "Czcigodny"
+    },
+    {
+        "id": 212,
+        "word": "Restrained",
+        "translation": "Powściągliwy"
+    },
+    {
+        "id": 213,
+        "word": "Besiege",
+        "translation": "Zasypać"
+    },
+    {
+        "id": 214,
+        "word": "Manifestation",
+        "translation": "Manifestacja"
+    },
+    {
+        "id": 215,
+        "word": "Rebuke",
+        "translation": "Nagana"
+    },
+    {
+        "id": 216,
+        "word": "Insurgent",
+        "translation": "Powstaniec"
+    },
+    {
+        "id": 217,
+        "word": "Rhetoric",
+        "translation": "Retoryka"
+    },
+    {
+        "id": 218,
+        "word": "Scrupulous",
+        "translation": "Skrupulatny"
+    },
+    {
+        "id": 219,
+        "word": "Ratify",
+        "translation": "Ratyfikować"
+    },
+    {
+        "id": 220,
+        "word": "Stump",
+        "translation": "Kikut"
+    },
+    {
+        "id": 221,
+        "word": "Discreet",
+        "translation": "Dyskretny"
+    },
+    {
+        "id": 222,
+        "word": "Imposing",
+        "translation": "Imponujący"
+    },
+    {
+        "id": 223,
+        "word": "Wistful",
+        "translation": "Tęskny"
+    },
+    {
+        "id": 224,
+        "word": "Mortify",
+        "translation": "Umartwiać"
+    },
+    {
+        "id": 225,
+        "word": "Ripple",
+        "translation": "Marszczyć"
+    },
+    {
+        "id": 226,
+        "word": "Premise",
+        "translation": "Przesłanka"
+    },
+    {
+        "id": 227,
+        "word": "Subside",
+        "translation": "Zapadać"
+    },
+    {
+        "id": 228,
+        "word": "Adverse",
+        "translation": "Niekorzystny"
+    },
+    {
+        "id": 229,
+        "word": "Caprice",
+        "translation": "Kaprys"
+    },
+    {
+        "id": 230,
+        "word": "Muster",
+        "translation": "Skrzyknąć"
+    },
+    {
+        "id": 231,
+        "word": "Comprehensive",
+        "translation": "Wyczerpujący"
+    },
+    {
+        "id": 232,
+        "word": "Accede",
+        "translation": "Przystąpić"
+    },
+    {
+        "id": 233,
+        "word": "Fervent",
+        "translation": "Żarliwy"
+    },
+    {
+        "id": 234,
+        "word": "Cohere",
+        "translation": "Przystać do siebie"
+    },
+    {
+        "id": 235,
+        "word": "Tribunal",
+        "translation": "Trybunał"
+    },
+    {
+        "id": 236,
+        "word": "Austere",
+        "translation": "Surowy"
+    },
+    {
+        "id": 237,
+        "word": "Recovering",
+        "translation": "Odzyskiwanie"
+    },
+    {
+        "id": 238,
+        "word": "Stratum",
+        "translation": "Warstwa"
+    },
+    {
+        "id": 239,
+        "word": "Conscientious",
+        "translation": "Sumienny"
+    },
+    {
+        "id": 240,
+        "word": "Arbitrary",
+        "translation": "Arbitralny"
+    },
+    {
+        "id": 241,
+        "word": "Exasperate",
+        "translation": "Zirytować"
+    },
+    {
+        "id": 242,
+        "word": "Conjure",
+        "translation": "Czarować"
+    },
+    {
+        "id": 243,
+        "word": "Ominous",
+        "translation": "Złowieszczy"
+    },
+    {
+        "id": 244,
+        "word": "Edifice",
+        "translation": "Gmach"
+    },
+    {
+        "id": 245,
+        "word": "Elude",
+        "translation": "Uniknąć"
+    },
+    {
+        "id": 246,
+        "word": "Pervade",
+        "translation": "Przesiąknąć"
+    },
+    {
+        "id": 247,
+        "word": "Foster",
+        "translation": "Pielęgnować"
+    },
+    {
+        "id": 248,
+        "word": "Admonish",
+        "translation": "Napominać"
+    },
+    {
+        "id": 249,
+        "word": "Repeal",
+        "translation": "Uchylać"
+    },
+    {
+        "id": 250,
+        "word": "Retiring",
+        "translation": "Ustępujący"
+    }
+]
