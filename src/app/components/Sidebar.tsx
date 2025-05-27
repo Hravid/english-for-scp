@@ -17,9 +17,8 @@ export default function Sidebar({ isOpen, setIsOpen }: SidebarProps) {
         {isOpen ? "✕" : "☰"}
       </button>
       <div 
-        className={`fixed top-0 left-0 h-full bg-blue-500 w-[85%] md:w-[230px] text-white transform transition-transform duration-300 ease-in-out shadow-lg ${
-          isOpen ? "translate-x-0" : "-translate-x-full"
-        } z-40 overflow-y-auto`}>
+        className={`fixed top-0 left-0 h-full bg-blue-500 w-[70%] max-w-xs md:w-[230px] text-white transform transition-transform duration-300 ease-in-out shadow-lg
+        ${isOpen ? "translate-x-0" : "-translate-x-full"} z-40 overflow-y-auto`}>
         <div className="p-4 pt-16">
           <h2 className="mb-4 text-xl font-bold">Odnośniki</h2>
           

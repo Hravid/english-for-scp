@@ -1,5 +1,3 @@
-// app/lessons/past-simple/page.tsx
-
 export default function PastSimplePage() {
   return (
     <div className="p-6 mx-auto max-w-2xl">

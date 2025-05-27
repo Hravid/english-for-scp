@@ -1,5 +1,3 @@
-// app/lessons/reported-speech/page.tsx
-
 export default function ReportedSpeechPage() {
   return (
     <div className="p-6 mx-auto max-w-2xl">
