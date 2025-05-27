@@ -1,4 +1,3 @@
-import Link from "next/link";
 import LessonCard from "@/app/components/LessonCard";
 
 export default function Lessons() {
